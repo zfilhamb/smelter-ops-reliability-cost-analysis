@@ -1,0 +1,23 @@
+"benchmark_year","smelter_id","smelter_name","region","technology","capacity_kdmt_per_year","availability_pct","cu_recovery_pct","energy_intensity_gj_per_t_cu","so2_capture_pct","acid_yield_t_per_t_cu","conversion_cost_usd_per_t_cu","labour_productivity_t_cu_per_fte"
+2024,OWN-PLANT,PT Nusa Tembaga Smelting (own plant),Southeast Asia,Flash Smelting,912.0,91.87,97.66,8.08,99.5,3.68,457.8,213.2
+2024,PEER-A,Peer Smelter A,East Asia,Flash Smelting,450.0,90.61,97.92,6.48,100.07,2.9,465.08,388.28
+2024,PEER-B,Peer Smelter B,East Asia,Flash Smelting,1000.0,91.63,98.23,8.68,99.56,3.16,373.06,313.79
+2024,PEER-C,Peer Smelter C,South Asia,ISASMELT,800.0,92.87,,7.66,99.7,3.46,496.19,295.48
+2024,PEER-D,Peer Smelter D,Southeast Asia,Flash Smelting,800.0,92.64,98.6,9.57,99.69,3.37,435.28,409.5
+2024,PEER-E,Peer Smelter E,South America,Teniente Converter,1000.0,90.17,98.53,9.36,99.54,3.22,441.52,252.18
+2024,PEER-F,Peer Smelter F,South America,Flash Smelting,800.0,87.74,98.04,7.09,99.21,3.39,452.05,315.29
+2024,PEER-G,Peer Smelter G,Europe,Flash Smelting,300.0,94.43,100.44,8.87,99.69,3.59,444.84,265.76
+2024,PEER-H,Peer Smelter H,Africa,ISASMELT,1600.0,92.69,98.44,9.66,101.45,3.53,,351.5
+2024,PEER-I,Peer Smelter I,East Asia,Bottom-blown (SKS),300.0,95.09,99.57,7.85,99.79,3.61,501.77,263.43
+2024,PEER-J,Peer Smelter J,Middle East,Flash Smelting,1300.0,93.63,97.47,7.34,98.95,3.08,393.07,395.08
+2025,OWN-PLANT,PT Nusa Tembaga Smelting (own plant),Southeast Asia,Flash Smelting,912.0,90.67,97.86,7.84,99.6,3.68,476.88,219.8
+2025,PEER-A,Peer Smelter A,East Asia,Flash Smelting,450.0,91.82,97.14,6.44,99.48,2.92,489.52,394.41
+2025,PEER-B,Peer Smelter B,East Asia,Flash Smelting,1000.0,92.22,98.04,8.78,99.08,3.14,389.14,312.72
+2025,PEER-C,Peer Smelter C,South Asia,ISASMELT,800.0,94.28,97.96,7.56,99.79,3.43,508.68,294.37
+2025,PEER-D,Peer Smelter D,Southeast Asia,Flash Smelting,800.0,94.05,98.63,9.69,99.83,3.34,438.7,
+2025,PEER-E,Peer Smelter E,South America,Teniente Converter,1000.0,91.24,97.81,9.39,99.79,3.22,457.29,251.42
+2025,PEER-F,Peer Smelter F,South America,Flash Smelting,800.0,88.94,98.8,7.14,,3.39,474.41,313.4
+2025,PEER-G,Peer Smelter G,Europe,Flash Smelting,300.0,95.03,98.73,8.87,98.76,3.55,463.6,264.54
+2025,PEER-H,Peer Smelter H,Africa,ISASMELT,1600.0,93.49,97.55,9.56,99.85,3.51,398.8,347.52
+2025,PEER-I,Peer Smelter I,East Asia,Bottom-blown (SKS),300.0,95.29,97.74,7.84,99.32,3.58,514.35,262.23
+2025,PEER-J,Peer Smelter J,Middle East,Flash Smelting,1300.0,94.98,97.52,7.34,99.56,3.07,401.01,395.9

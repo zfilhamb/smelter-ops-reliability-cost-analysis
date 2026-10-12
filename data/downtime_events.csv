@@ -1,0 +1,255 @@
+"event_id","equipment","area","start_datetime","end_datetime","duration_hr","planned_duration_hr","failure_category","is_planned","impact_type","throughput_loss_pct","cause_description","repair_cost_usd"
+EVT-0001,Flash Converting Furnace,Smelting,2025-01-02 00:09:00.000,2025-01-02 06:03:00.000,5.9,5.9,Unclassified,Y,Reduced Rate,31,Refractory inspection,4750.0
+EVT-0002,Flash Smelting Furnace,Smelting,2025-01-03 19:10:00.000,2025-01-04 00:04:00.000,4.9,,Process Upset,N,Full Stop,100,Feed rate oscillation,1910.0
+EVT-0003,Slag Handling System,Smelting,2025-01-12 23:28:00.000,2025-01-13 01:40:00.000,2.2,,Mechanical,N,No Impact,0,Conveyor belt misalignment,1960.0
+EVT-0004,Anode Furnace,Anode Refining,2025-01-15 12:37:00.000,2025-01-15 22:49:00.000,10.2,,Instrumentation & Control,N,Reduced Rate,45,DCS communication loss,18110.0
+EVT-0005,Anode Furnace,Anode Refining,2025-01-16 01:33:00.000,2025-01-16 02:51:00.000,1.3,,Process Upset,N,Reduced Rate,50,High SO2 in stack,13830.0
+EVT-0006,Anode Furnace,Anode Refining,2025-01-22 18:06:00.000,2025-01-24 18:06:00.000,48.0,48.0,Planned Maintenance,Y,Full Stop,100,Catalyst screening,38380.0
+EVT-0007,Concentrate Conveying,Materials Handling,2025-01-26 05:14:00.000,2025-01-26 10:02:00.000,4.8,,Electrical,N,Full Stop,100,VFD fault,5550.0
+EVT-0008,Flash Converting Furnace,Smelting,2025-01-30 12:16:00.000,2025-01-30 13:16:00.000,1.0,,Process Upset,N,Reduced Rate,20,Slag foaming,710.0
+EVT-0009,Concentrate Dryer,Materials Handling,2025-01-31 08:45:00.000,2025-02-01 11:03:00.000,26.3,,Utility Supply,N,Reduced Rate,46,Steam pressure low,147080.0
+EVT-0010,Cooling Water System,Utilities,2025-01-31 14:59:00.000,2025-01-31 16:41:00.000,1.7,,Mechanical,N,Reduced Rate,44,Bearing failure,5450.0
+EVT-0011,Acid Plant,Acid Plant,2025-02-01 03:50:00.000,2025-02-01 10:26:00.000,6.6,,Electrical,N,No Impact,0,Cable fault,29480.0
+EVT-0012,Anode Casting Wheel,Anode Refining,2025-02-01 07:18:00.000,2025-02-01 08:12:00.000,0.9,,Utility Supply,N,No Impact,0,Low instrument air pressure,2800.0
+EVT-0013,Concentrate Dryer,Materials Handling,2025-02-03 11:51:00.000,2025-02-03 19:39:00.000,7.8,,Mechanical,N,Full Stop,100,Fan vibration high,12740.0
+EVT-0014,Waste Heat Boiler,Smelting,2025-02-06 01:10:00.000,2025-02-06 02:22:00.000,1.2,,Process Upset,N,Reduced Rate,21,Matte grade off-spec,990.0
+EVT-0015,Oxygen Plant,Utilities,2025-02-06 13:27:00.000,2025-02-06 15:57:00.000,2.5,,Process Upset,N,Reduced Rate,38,Uptake shaft blockage,22080.0
+EVT-0016,Electrorefinery Cranes,Electrorefinery,2025-02-08 05:58:00.000,2025-02-08 08:28:00.000,2.5,,Mechanical,N,Reduced Rate,28,Fan vibration high,11350.0
+EVT-0017,Electrorefinery Cranes,Electrorefinery,2025-02-13 05:03:00.000,2025-02-13 08:51:00.000,3.8,,Mechanical,N,No Impact,0,Refractory hot-spot repair,7240.0
+EVT-0018,Anode Casting Wheel,Anode Refining,2025-02-18 22:12:00.000,2025-02-19 03:06:00.000,4.9,4.9,Planned Maintenance,Y,No Impact,0,Refractory inspection,3960.0
+EVT-0019,Flash Smelting Furnace,Smelting,2025-02-19 04:18:00.000,2025-02-19 10:24:00.000,6.1,,Instrumentation & Control,N,Reduced Rate,38,DCS communication loss,21830.0
+EVT-0020,Rectifier / Power Supply,Electrorefinery,2025-02-27 00:10:00.000,2025-02-27 04:34:00.000,4.4,,Electrical,N,Reduced Rate,34,Cable fault,5600.0
+EVT-0021,Acid Plant,Acid Plant,2025-02-27 16:34:00.000,2025-02-28 10:52:00.000,18.3,18.3,Planned Maintenance,Y,Reduced Rate,27,Refractory inspection,14680.0
+EVT-0022,Flash Converting Furnace,Smelting,2025-02-28 05:36:00.000,2025-02-28 07:00:00.000,1.4,,Instrumentation & Control,N,Full Stop,100,Level sensor drift,1530.0
+EVT-0023,Concentrate Conveying,Materials Handling,2025-03-01 06:13:00.000,2025-03-01 08:49:00.000,2.6,,Mechanical,N,Reduced Rate,29,Pump seal leakage,8180.0
+EVT-0024,Flash Converting Furnace,Smelting,2025-03-02 11:56:00.000,2025-03-02 12:26:00.000,0.5,,Mechanical,N,Full Stop,100,Tap-hole wear,1310.0
+EVT-0071,Anode Furnace,Anode Refining,2025-06-01 03:05:00.000,2025-06-01 04:53:00.000,1.8,,Electrical,N,No Impact,0,VFD fault,1460.0
+EVT-0025,Rectifier / Power Supply,Electrorefinery,2025-03-05 09:31:00.000,2025-03-05 12:13:00.000,2.7,2.7,Planned Maintenance,Y,Reduced Rate,20,Preventive lubrication and alignment,2150.0
+EVT-0026,Anode Casting Wheel,Anode Refining,2025-03-09 00:59:00.000,2025-03-09 11:11:00.000,10.2,,Mechanical,N,No Impact,0,Tap-hole wear,19660.0
+EVT-0027,Flash Smelting Furnace,Smelting,2025-03-11 23:41:00.000,2025-03-12 03:59:00.000,4.3,,Mechanical,N,Full Stop,100,Refractory hot-spot repair,23660.0
+EVT-0028,Anode Casting Wheel,Anode Refining,2025-03-15 21:13:00.000,2025-03-16 01:07:00.000,3.9,,Process Upset,N,No Impact,0,Feed rate oscillation,2890.0
+EVT-0029,Oxygen Plant,Utilities,2025-03-16 09:23:00.000,2025-03-16 11:53:00.000,2.5,,Mechanical,N,Reduced Rate,49,Fan vibration high,17900.0
+EVT-0030,Oxygen Plant,Utilities,2025-03-18 22:08:00.000,2025-03-19 02:14:00.000,4.1,,Instrumentation & Control,N,No Impact,0,Flow meter fault,17430.0
+EVT-0031,Flash Converting Furnace,Smelting,2025-03-20 04:36:00.000,2025-03-20 08:54:00.000,4.3,,Process Upset,N,No Impact,0,Matte grade off-spec,3710.0
+EVT-0032,Electrostatic Precipitator,Gas Cleaning,2025-03-20 09:27:00.000,2025-03-20 15:33:00.000,6.1,,Mechanical,N,Reduced Rate,57,Fan vibration high,21990.0
+EVT-0033,Electrostatic Precipitator,Gas Cleaning,2025-03-23 06:16:00.000,2025-03-23 07:52:00.000,1.6,,Mechanical,N,Reduced Rate,36,Refractory hot-spot repair,5500.0
+EVT-0034,Concentrate Dryer,Materials Handling,2025-03-23 10:13:00.000,2025-03-23 16:07:00.000,5.9,,Mechanical,N,Full Stop,100,Gearbox overheating,18150.0
+EVT-0035,Acid Plant,Acid Plant,2025-03-26 20:57:00.000,2025-03-26 22:27:00.000,1.5,,Utility Supply,N,Full Stop,100,Steam pressure low,3030.0
+EVT-0036,Anode Furnace,Anode Refining,2025-03-26 23:46:00.000,2025-03-27 02:04:00.000,2.3,,Mechanical,N,Reduced Rate,29,Refractory hot-spot repair,14020.0
+EVT-0037,Flash Smelting Furnace,Smelting,2025-04-02 04:12:00.000,2025-04-02 08:42:00.000,4.5,,Mechanical,N,Full Stop,100,Conveyor belt misalignment,21350.0
+EVT-0038,Waste Heat Boiler,Smelting,2025-04-02 07:23:00.000,2025-04-02 16:23:00.000,9.0,9.0,Planned Maintenance,Y,Full Stop,100,Preventive lubrication and alignment,7210.0
+EVT-0039,Flash Smelting Furnace,Smelting,2025-04-04 01:59:00.000,2025-04-04 08:29:00.000,6.5,,Mechanical,N,No Impact,0,Gearbox overheating,17550.0
+EVT-0040,Anode Casting Wheel,Anode Refining,2025-04-04 02:08:00.000,2025-04-04 02:38:00.000,0.5,,Mechanical,N,No Impact,0,Fan vibration high,1220.0
+EVT-0041,Waste Heat Boiler,Smelting,2025-04-04 13:55:00.000,2025-04-04 19:43:00.000,5.8,,Mechanical,N,No Impact,0,Tap-hole wear,27040.0
+EVT-0042,Rectifier / Power Supply,Electrorefinery,2025-04-13 08:05:00.000,2025-04-13 09:41:00.000,1.6,,Mechanical,N,No Impact,0,Gearbox overheating,2720.0
+EVT-0043,Oxygen Plant,Utilities,2025-04-13 20:19:00.000,2025-04-13 22:49:00.000,2.5,,Mechanical,N,Full Stop,100,Tap-hole wear,2660.0
+EVT-0044,Slag Handling System,Smelting,2025-04-15 20:01:00.000,2025-04-15 22:37:00.000,2.6,,Process Upset,N,No Impact,0,Slag foaming,12100.0
+EVT-0045,Flash Smelting Furnace,Smelting,2025-04-15 21:58:00.000,2025-04-15 23:16:00.000,1.3,,Mechanical,N,Reduced Rate,42,Tap-hole wear,3160.0
+EVT-0046,Concentrate Dryer,Materials Handling,2025-04-17 03:49:00.000,2025-04-17 08:31:00.000,4.7,,Instrumentation & Control,N,Full Stop,100,Thermocouple failure,8330.0
+EVT-0047,Slag Handling System,Smelting,2025-04-21 18:46:00.000,2025-04-21 20:16:00.000,1.5,,Process Upset,N,No Impact,0,Matte grade off-spec,4390.0
+EVT-0048,Anode Furnace,Anode Refining,2025-04-23 13:46:00.000,2025-04-23 17:10:00.000,3.4,,Instrumentation & Control,N,Full Stop,100,Thermocouple failure,10030.0
+EVT-0049,Flash Smelting Furnace,Smelting,2025-04-24 16:21:00.000,2025-04-24 17:15:00.000,0.9,,Electrical,N,No Impact,0,Cable fault,1850.0
+EVT-0050,Concentrate Dryer,Materials Handling,2025-04-30 05:25:00.000,2025-04-30 08:55:00.000,3.5,,Electrical,N,Full Stop,100,Power dip from grid,1640.0
+EVT-0051,Anode Casting Wheel,Anode Refining,2025-05-01 08:12:00.000,2025-05-01 11:06:00.000,2.9,,Process Upset,N,Reduced Rate,43,Bath temperature excursion,1910.0
+EVT-0052,Cooling Water System,Utilities,2025-05-01 22:08:00.000,2025-05-02 00:14:00.000,2.1,2.1,Planned Maintenance,Y,Reduced Rate,56,Catalyst screening,1690.0
+EVT-0053,Oxygen Plant,Utilities,2025-05-02 01:32:00.000,2025-05-02 02:38:00.000,1.1,,Process Upset,N,Full Stop,100,Bath temperature excursion,2690.0
+EVT-0054,Rectifier / Power Supply,Electrorefinery,2025-05-03 03:07:00.000,2025-05-03 03:37:00.000,0.5,,Utility Supply,N,No Impact,0,Low instrument air pressure,440.0
+EVT-0055,Oxygen Plant,Utilities,2025-05-03 07:57:00.000,2025-05-03 08:51:00.000,0.9,,Process Upset,N,No Impact,0,High SO2 in stack,850.0
+EVT-0056,Acid Plant,Acid Plant,2025-05-03 15:46:00.000,2025-05-03 22:10:00.000,6.4,6.4,Planned Maintenance,Y,Reduced Rate,46,Scheduled inspection,5110.0
+EVT-0057,Concentrate Dryer,Materials Handling,2025-05-06 10:23:00.000,2025-05-06 13:35:00.000,3.2,,Unclassified,N,No Impact,0,Pump seal leakage,5230.0
+EVT-0058,Flash Smelting Furnace,Smelting,2025-05-10 02:57:00.000,2025-05-10 03:27:00.000,0.5,,Process Upset,N,Full Stop,100,Matte grade off-spec,810.0
+EVT-0059,Anode Furnace,Anode Refining,2025-05-11 00:15:00.000,2025-05-11 03:27:00.000,3.2,,Utility Supply,N,No Impact,0,Steam pressure low,8950.0
+EVT-0060,Anode Furnace,Anode Refining,2025-05-11 20:24:00.000,2025-05-13 02:06:00.000,29.7,,Utility Supply,N,Reduced Rate,36,Low instrument air pressure,24240.0
+EVT-0061,Anode Furnace,Anode Refining,2025-05-13 12:50:00.000,2025-05-13 14:32:00.000,1.7,1.7,Planned Maintenance,Y,Reduced Rate,43,Scheduled inspection,1350.0
+EVT-0062,Anode Furnace,Anode Refining,2025-05-17 17:01:00.000,2025-05-17 19:25:00.000,2.4,,Instrumentation & Control,N,No Impact,0,DCS communication loss,6740.0
+EVT-0063,Concentrate Conveying,Materials Handling,2025-05-17 21:54:00.000,2025-05-18 04:06:00.000,6.2,6.2,Planned Maintenance,Y,Reduced Rate,25,Refractory inspection,4920.0
+EVT-0064,Anode Casting Wheel,Anode Refining,2025-05-19 03:33:00.000,2025-05-20 07:57:00.000,28.4,,Mechanical,N,No Impact,0,Fan vibration high,33730.0
+EVT-0065,Flash Converting Furnace,Smelting,2025-05-20 04:07:00.000,2025-05-20 04:43:00.000,0.6,,Process Upset,N,Reduced Rate,58,Feed rate oscillation,420.0
+EVT-0066,Acid Plant,Acid Plant,2025-05-24 10:01:00.000,2025-05-26 09:49:00.000,47.8,,Utility Supply,N,Full Stop,100,Oxygen supply shortfall,109310.0
+EVT-0067,Acid Plant,Acid Plant,2025-05-27 00:02:00.000,2025-05-27 03:56:00.000,3.9,,Mechanical,N,Full Stop,100,Gearbox overheating,19930.0
+EVT-0068,Flash Converting Furnace,Smelting,2025-05-29 08:19:00.000,2025-05-29 15:01:00.000,6.7,6.7,Planned Maintenance,Y,Reduced Rate,33,Refractory inspection,5340.0
+EVT-0069,Acid Plant,Acid Plant,2025-05-29 15:02:00.000,2025-05-30 12:56:00.000,21.9,21.9,Planned Maintenance,Y,Reduced Rate,49,Preventive lubrication and alignment,17480.0
+EVT-0070,Flash Smelting Furnace,Smelting,2025-05-30 02:47:00.000,2025-05-30 05:41:00.000,2.9,,Instrumentation & Control,N,Full Stop,100,Level sensor drift,2550.0
+EVT-0072,Flash Converting Furnace,Smelting,2025-06-03 11:20:00.000,2025-06-03 14:38:00.000,3.3,3.3,Planned Maintenance,Y,Reduced Rate,50,Preventive lubrication and alignment,2610.0
+EVT-0073,Rectifier / Power Supply,Electrorefinery,2025-06-05 02:45:00.000,2025-06-05 05:03:00.000,2.3,,Mechanical,N,No Impact,0,Fan vibration high,4720.0
+EVT-0074,Concentrate Dryer,Materials Handling,2025-06-07 16:07:00.000,2025-06-07 16:55:00.000,0.8,,Utility Supply,N,Reduced Rate,26,Low cooling water flow,1930.0
+EVT-0075,Slag Handling System,Smelting,2025-06-11 18:53:00.000,2025-06-11 20:53:00.000,2.0,,Instrumentation & Control,N,Full Stop,100,Flow meter fault,4050.0
+EVT-0076,Concentrate Dryer,Materials Handling,2025-06-13 22:39:00.000,2025-06-14 01:45:00.000,3.1,,Unclassified,N,Full Stop,100,Fan vibration high,3930.0
+EVT-0077,Cooling Water System,Utilities,2025-06-14 00:04:00.000,2025-06-14 01:04:00.000,1.0,,Process Upset,N,No Impact,0,Matte grade off-spec,1470.0
+EVT-0078,Oxygen Plant,Utilities,2025-06-22 03:14:00.000,2025-06-22 04:02:00.000,0.8,,Electrical,N,No Impact,0,Transformer trip,1280.0
+EVT-0079,Electrorefinery Cranes,Electrorefinery,2025-06-29 21:46:00.000,2025-07-01 02:16:00.000,28.5,28.5,Planned Maintenance,Y,Reduced Rate,38,Refractory inspection,22820.0
+EVT-0080,Rectifier / Power Supply,Electrorefinery,2025-07-02 20:52:00.000,2025-07-03 02:40:00.000,5.8,,Mechanical,N,No Impact,0,Bearing failure,17320.0
+EVT-0081,Anode Furnace,Anode Refining,2025-07-04 12:09:00.000,2025-07-04 12:57:00.000,0.8,,Mechanical,N,No Impact,0,Gearbox overheating,1020.0
+EVT-0082,Anode Casting Wheel,Anode Refining,2025-07-06 08:47:00.000,2025-07-06 13:11:00.000,4.4,,Mechanical,N,No Impact,0,Refractory hot-spot repair,2880.0
+EVT-0083,Oxygen Plant,Utilities,2025-07-08 01:20:00.000,2025-07-08 07:20:00.000,6.0,6.0,Planned Maintenance,Y,Full Stop,100,Scheduled inspection,4780.0
+EVT-0084,Acid Plant,Acid Plant,2025-07-08 10:37:00.000,2025-07-08 13:19:00.000,2.7,,Process Upset,N,Reduced Rate,33,Bath temperature excursion,8390.0
+EVT-0085,Electrorefinery Cranes,Electrorefinery,2025-07-14 05:13:00.000,2025-07-14 07:25:00.000,2.2,,Electrical,N,Full Stop,100,VFD fault,4010.0
+EVT-0086,Concentrate Dryer,Materials Handling,2025-07-14 08:29:00.000,2025-07-15 01:17:00.000,16.8,,Electrical,N,Full Stop,100,Power dip from grid,32280.0
+EVT-0087,Acid Plant,Acid Plant,2025-07-14 20:33:00.000,2025-07-14 21:45:00.000,1.2,,Utility Supply,N,No Impact,0,Low instrument air pressure,2360.0
+EVT-0088,Concentrate Dryer,Materials Handling,2025-07-21 20:31:00.000,2025-07-21 21:55:00.000,1.4,,Utility Supply,N,Full Stop,100,Low cooling water flow,510.0
+EVT-0089,Oxygen Plant,Utilities,2025-07-22 09:00:00.000,2025-07-23 15:00:00.000,30.0,,Utility Supply,N,Full Stop,100,Main air compressor trip,95000.0
+EVT-0090,Anode Casting Wheel,Anode Refining,2025-07-24 03:14:00.000,2025-07-24 05:02:00.000,1.8,,Process Upset,N,Full Stop,100,Matte grade off-spec,1600.0
+EVT-0091,Concentrate Dryer,Materials Handling,2025-07-28 00:50:00.000,2025-07-28 06:44:00.000,5.9,5.9,Planned Maintenance,Y,Reduced Rate,60,Preventive lubrication and alignment,4720.0
+EVT-0092,Flash Smelting Furnace,Smelting,2025-07-28 13:11:00.000,2025-07-28 20:53:00.000,7.7,7.7,Planned Maintenance,Y,No Impact,0,Calibration campaign,6120.0
+EVT-0093,Flash Smelting Furnace,Smelting,2025-07-29 23:11:00.000,2025-07-30 00:17:00.000,1.1,,Mechanical,N,Reduced Rate,32,Tap-hole wear,7730.0
+EVT-0094,Cooling Water System,Utilities,2025-07-30 21:46:00.000,2025-07-30 22:22:00.000,0.6,,Mechanical,N,Reduced Rate,24,Conveyor belt misalignment,1450.0
+EVT-0095,Anode Casting Wheel,Anode Refining,2025-08-02 08:13:00.000,2025-08-02 18:25:00.000,10.2,,Instrumentation & Control,N,Reduced Rate,44,Thermocouple failure,18430.0
+EVT-0096,Flash Smelting Furnace,Smelting,2025-08-08 06:12:00.000,2025-08-08 07:36:00.000,1.4,,Mechanical,N,No Impact,0,Refractory hot-spot repair,2960.0
+EVT-0097,Electrostatic Precipitator,Gas Cleaning,2025-08-12 18:42:00.000,2025-08-12 20:30:00.000,1.8,,Utility Supply,N,Reduced Rate,45,Oxygen supply shortfall,850.0
+EVT-0098,Oxygen Plant,Utilities,2025-08-13 18:41:00.000,2025-08-13 20:17:00.000,1.6,,Utility Supply,N,No Impact,0,Low cooling water flow,2500.0
+EVT-0099,Concentrate Dryer,Materials Handling,2025-08-13 23:29:00.000,2025-08-14 02:35:00.000,3.1,,Utility Supply,N,Full Stop,100,Steam pressure low,23340.0
+EVT-0100,Acid Plant,Acid Plant,2025-08-21 07:00:00.000,2025-08-21 08:42:00.000,1.7,,Instrumentation & Control,N,Reduced Rate,45,Thermocouple failure,3030.0
+EVT-0101,Flash Smelting Furnace,Smelting,2025-08-22 00:13:00.000,2025-08-22 01:43:00.000,1.5,,Process Upset,N,Full Stop,100,High SO2 in stack,4370.0
+EVT-0102,Slag Handling System,Smelting,2025-08-26 05:51:00.000,2025-08-26 19:33:00.000,13.7,,Instrumentation & Control,N,No Impact,0,DCS communication loss,14850.0
+EVT-0103,Slag Handling System,Smelting,2025-08-27 12:57:00.000,2025-08-27 16:27:00.000,3.5,,Instrumentation & Control,N,No Impact,0,Level sensor drift,5890.0
+EVT-0104,Slag Handling System,Smelting,2025-08-28 03:29:00.000,2025-08-28 10:59:00.000,7.5,,Process Upset,N,No Impact,0,Uptake shaft blockage,10520.0
+EVT-0105,Oxygen Plant,Utilities,2025-08-28 10:21:00.000,2025-08-29 05:15:00.000,18.9,18.9,Planned Maintenance,Y,Reduced Rate,31,Catalyst screening,15090.0
+EVT-0106,Anode Casting Wheel,Anode Refining,2025-08-29 21:36:00.000,2025-08-30 03:24:00.000,5.8,,Mechanical,N,Reduced Rate,60,Bearing failure,25740.0
+EVT-0107,Slag Handling System,Smelting,2025-08-29 22:22:00.000,2025-08-30 04:04:00.000,5.7,,Instrumentation & Control,N,No Impact,0,Thermocouple failure,6280.0
+EVT-0108,Waste Heat Boiler,Smelting,2025-09-01 15:22:00.000,2025-09-01 23:22:00.000,8.0,8.0,Planned Maintenance,Y,Full Stop,100,Scheduled inspection,6430.0
+EVT-0109,Flash Converting Furnace,Smelting,2025-09-05 05:06:00.000,2025-09-05 05:48:00.000,0.7,,Process Upset,N,Reduced Rate,40,Slag foaming,4840.0
+EVT-0110,Concentrate Conveying,Materials Handling,2025-09-05 08:13:00.000,2025-09-05 13:01:00.000,4.8,,Mechanical,N,Reduced Rate,25,Refractory hot-spot repair,21790.0
+EVT-0111,Waste Heat Boiler,Smelting,2025-09-05 17:20:00.000,2025-09-05 18:38:00.000,1.3,,Process Upset,N,Full Stop,100,High SO2 in stack,8940.0
+EVT-0112,Concentrate Conveying,Materials Handling,2025-09-06 11:44:00.000,2025-09-06 16:50:00.000,5.1,5.1,Planned Maintenance,Y,Reduced Rate,25,Calibration campaign,4100.0
+EVT-0113,Concentrate Dryer,Materials Handling,2025-09-07 13:51:00.000,2025-09-08 14:39:00.000,24.8,24.8,Planned Maintenance,Y,Reduced Rate,23,Catalyst screening,19860.0
+EVT-0114,Concentrate Dryer,Materials Handling,2025-09-08 00:26:00.000,2025-09-08 03:38:00.000,3.2,,Electrical,N,No Impact,0,VFD fault,25690.0
+EVT-0115,Electrostatic Precipitator,Gas Cleaning,2025-09-10 15:14:00.000,2025-09-10 22:50:00.000,7.6,,Electrical,N,Full Stop,100,Transformer trip,6560.0
+EVT-0116,Flash Converting Furnace,Smelting,2025-09-11 01:51:00.000,2025-09-11 03:45:00.000,1.9,,Utility Supply,N,Full Stop,100,Low cooling water flow,12410.0
+EVT-0117,Concentrate Dryer,Materials Handling,2025-09-18 13:17:00.000,2025-09-18 16:11:00.000,2.9,,Mechanical,N,Reduced Rate,43,Pump seal leakage,2800.0
+EVT-0118,Electrorefinery Cranes,Electrorefinery,2025-09-22 14:53:00.000,2025-09-23 00:29:00.000,9.6,,Instrumentation & Control,N,No Impact,0,Level sensor drift,6530.0
+EVT-0119,Slag Handling System,Smelting,2025-09-26 01:00:00.000,2025-09-26 08:42:00.000,7.7,7.7,Planned Maintenance,Y,Reduced Rate,36,Calibration campaign,6150.0
+EVT-0120,Rectifier / Power Supply,Electrorefinery,2025-09-28 07:41:00.000,2025-09-28 09:47:00.000,2.1,,Process Upset,N,Reduced Rate,55,Matte grade off-spec,14240.0
+EVT-0121,Oxygen Plant,Utilities,2025-09-29 15:12:00.000,2025-09-30 02:42:00.000,11.5,,Mechanical,N,Full Stop,100,Gearbox overheating,44160.0
+EVT-0122,Anode Casting Wheel,Anode Refining,2025-10-03 09:37:00.000,2025-10-04 02:19:00.000,16.7,16.7,Planned Maintenance,Y,No Impact,0,Preventive lubrication and alignment,13340.0
+EVT-0123,Waste Heat Boiler,Smelting,2025-10-04 04:48:00.000,2025-10-04 09:06:00.000,4.3,,Unclassified,N,Full Stop,100,Tap-hole wear,12310.0
+EVT-0124,Concentrate Dryer,Materials Handling,2025-10-04 13:56:00.000,2025-10-04 17:44:00.000,3.8,,Electrical,N,Full Stop,100,Motor winding fault,8680.0
+EVT-0125,Flash Smelting Furnace,Smelting,2025-10-06 06:00:00.000,2025-10-22 06:00:00.000,384.0,336.0,Unclassified,Y,Full Stop,100,Major turnaround: furnace reline (2 days overrun vs plan),0.0
+EVT-0126,Anode Casting Wheel,Anode Refining,2025-10-24 20:00:00.000,2025-10-24 21:36:00.000,1.6,,Electrical,N,No Impact,0,Cable fault,1490.0
+EVT-0127,Anode Casting Wheel,Anode Refining,2025-10-25 01:25:00.000,2025-10-25 03:07:00.000,1.7,,Instrumentation & Control,N,Reduced Rate,54,Flow meter fault,3690.0
+EVT-0128,Anode Furnace,Anode Refining,2025-10-25 07:24:00.000,2025-10-25 10:12:00.000,2.8,,Instrumentation & Control,N,Reduced Rate,34,Level sensor drift,7000.0
+EVT-0129,Flash Converting Furnace,Smelting,2025-10-27 10:47:00.000,2025-10-27 20:05:00.000,9.3,,Mechanical,N,Full Stop,100,Conveyor belt misalignment,34490.0
+EVT-0130,Concentrate Conveying,Materials Handling,2025-10-28 19:53:00.000,2025-10-29 00:17:00.000,4.4,,Mechanical,N,Full Stop,100,Fan vibration high,48130.0
+EVT-0131,Flash Converting Furnace,Smelting,2025-10-31 15:11:00.000,2025-10-31 21:35:00.000,6.4,,Process Upset,N,Reduced Rate,29,Matte grade off-spec,10840.0
+EVT-0132,Cooling Water System,Utilities,2025-11-08 14:51:00.000,2025-11-08 17:39:00.000,2.8,,Instrumentation & Control,N,Reduced Rate,30,Thermocouple failure,3920.0
+EVT-0133,Slag Handling System,Smelting,2025-11-13 06:46:00.000,2025-11-13 08:28:00.000,1.7,,Instrumentation & Control,N,Reduced Rate,34,Level sensor drift,1170.0
+EVT-0134,Waste Heat Boiler,Smelting,2025-11-13 23:49:00.000,2025-11-14 00:31:00.000,0.7,,Utility Supply,N,Reduced Rate,53,Steam pressure low,6870.0
+EVT-0135,Flash Converting Furnace,Smelting,2025-11-15 04:53:00.000,2025-11-15 12:47:00.000,7.9,,Mechanical,N,No Impact,0,Gearbox overheating,11390.0
+EVT-0136,Acid Plant,Acid Plant,2025-11-25 11:59:00.000,2025-11-25 12:47:00.000,0.8,0.8,Planned Maintenance,Y,Full Stop,100,Catalyst screening,670.0
+EVT-0137,Acid Plant,Acid Plant,2025-11-30 10:41:00.000,2025-11-30 11:59:00.000,1.3,,Mechanical,N,Reduced Rate,43,Tap-hole wear,5760.0
+EVT-0138,Oxygen Plant,Utilities,2025-11-30 20:25:00.000,2025-11-30 22:49:00.000,2.4,,Process Upset,N,Full Stop,100,Uptake shaft blockage,1140.0
+EVT-0139,Anode Furnace,Anode Refining,2025-12-01 14:58:00.000,2025-12-01 19:04:00.000,4.1,,Process Upset,N,No Impact,0,Slag foaming,7070.0
+EVT-0140,Oxygen Plant,Utilities,2025-12-03 14:38:00.000,2025-12-04 02:32:00.000,11.9,11.9,Planned Maintenance,Y,Full Stop,100,Preventive lubrication and alignment,9540.0
+EVT-0141,Slag Handling System,Smelting,2025-12-04 13:02:00.000,2025-12-04 13:56:00.000,0.9,,Mechanical,N,Reduced Rate,45,Fan vibration high,1190.0
+EVT-0142,Oxygen Plant,Utilities,2025-12-07 06:18:00.000,2025-12-07 13:36:00.000,7.3,,Utility Supply,N,Reduced Rate,58,Steam pressure low,9120.0
+EVT-0143,Acid Plant,Acid Plant,2025-12-07 11:05:00.000,2025-12-07 14:59:00.000,3.9,,Instrumentation & Control,N,Reduced Rate,27,DCS communication loss,4250.0
+EVT-0144,Concentrate Conveying,Materials Handling,2025-12-08 11:52:00.000,2025-12-08 18:04:00.000,6.2,,Mechanical,N,No Impact,0,Bearing failure,15230.0
+EVT-0145,Electrostatic Precipitator,Gas Cleaning,2025-12-09 10:29:00.000,2025-12-09 12:59:00.000,2.5,,Mechanical,N,Reduced Rate,28,Gearbox overheating,11970.0
+EVT-0146,Flash Converting Furnace,Smelting,2025-12-13 21:10:00.000,2025-12-14 01:34:00.000,4.4,4.4,Planned Maintenance,Y,Reduced Rate,42,Catalyst screening,3530.0
+EVT-0147,Concentrate Dryer,Materials Handling,2025-12-24 03:13:00.000,2025-12-24 12:13:00.000,9.0,,Electrical,N,Reduced Rate,35,Cable fault,4550.0
+EVT-0148,Oxygen Plant,Utilities,2025-12-26 18:30:00.000,2025-12-26 19:54:00.000,1.4,,Utility Supply,N,Full Stop,100,Oxygen supply shortfall,1580.0
+EVT-0149,Rectifier / Power Supply,Electrorefinery,2025-12-28 04:50:00.000,2025-12-28 05:44:00.000,0.9,,Utility Supply,N,No Impact,0,Low instrument air pressure,3930.0
+EVT-0150,Concentrate Conveying,Materials Handling,2026-01-05 19:08:00.000,2026-01-06 06:08:00.000,11.0,11.0,Planned Maintenance,Y,Full Stop,100,Refractory inspection,8830.0
+EVT-0151,Anode Furnace,Anode Refining,2026-01-06 03:02:00.000,2026-01-06 07:56:00.000,4.9,,Electrical,N,No Impact,0,VFD fault,8080.0
+EVT-0152,Waste Heat Boiler,Smelting,2026-01-09 09:30:00.000,2026-01-09 15:36:00.000,6.1,,Instrumentation & Control,N,Reduced Rate,47,DCS communication loss,11460.0
+EVT-0153,Flash Smelting Furnace,Smelting,2026-01-10 22:35:00.000,2026-01-11 03:11:00.000,4.6,,Instrumentation & Control,N,Full Stop,100,Level sensor drift,13790.0
+EVT-0154,Rectifier / Power Supply,Electrorefinery,2026-01-11 12:27:00.000,2026-01-11 19:57:00.000,7.5,7.5,Planned Maintenance,Y,Reduced Rate,44,Catalyst screening,5980.0
+EVT-0155,Concentrate Conveying,Materials Handling,2026-01-11 22:28:00.000,2026-01-12 03:22:00.000,4.9,,Utility Supply,N,Reduced Rate,31,Steam pressure low,7110.0
+EVT-0156,Flash Converting Furnace,Smelting,2026-01-13 20:51:00.000,2026-01-13 22:33:00.000,1.7,,Process Upset,N,Reduced Rate,44,Bath temperature excursion,1500.0
+EVT-0157,Cooling Water System,Utilities,2026-01-17 18:53:00.000,2026-01-17 19:47:00.000,0.9,,Mechanical,N,Full Stop,100,Conveyor belt misalignment,4380.0
+EVT-0158,Waste Heat Boiler,Smelting,2026-01-18 06:49:00.000,2026-01-18 13:37:00.000,6.8,,Electrical,N,Full Stop,100,Cable fault,17990.0
+EVT-0159,Cooling Water System,Utilities,2026-01-18 07:59:00.000,2026-01-18 10:53:00.000,2.9,,Process Upset,N,Reduced Rate,36,High SO2 in stack,9850.0
+EVT-0160,Concentrate Dryer,Materials Handling,2026-01-18 10:12:00.000,2026-01-18 18:30:00.000,8.3,,Process Upset,N,No Impact,0,High SO2 in stack,20680.0
+EVT-0161,Oxygen Plant,Utilities,2026-01-23 09:15:00.000,2026-01-23 13:27:00.000,4.2,,Mechanical,N,No Impact,0,Tap-hole wear,34210.0
+EVT-0162,Slag Handling System,Smelting,2026-01-26 18:15:00.000,2026-01-26 23:27:00.000,5.2,,Mechanical,N,No Impact,0,Conveyor belt misalignment,6830.0
+EVT-0163,Acid Plant,Acid Plant,2026-01-29 09:13:00.000,2026-01-29 13:25:00.000,4.2,,Utility Supply,N,Reduced Rate,50,Oxygen supply shortfall,12030.0
+EVT-0164,Electrorefinery Cranes,Electrorefinery,2026-01-29 10:26:00.000,2026-01-29 13:32:00.000,3.1,,Mechanical,N,No Impact,0,Gearbox overheating,23960.0
+EVT-0165,Flash Smelting Furnace,Smelting,2026-01-29 23:25:00.000,2026-01-30 09:07:00.000,9.7,9.7,Planned Maintenance,Y,Full Stop,100,Scheduled inspection,7730.0
+EVT-0166,Concentrate Conveying,Materials Handling,2026-01-31 10:14:00.000,2026-01-31 13:44:00.000,3.5,,Mechanical,N,Full Stop,100,Tap-hole wear,9160.0
+EVT-0167,Slag Handling System,Smelting,2026-01-31 23:37:00.000,2026-02-01 07:01:00.000,7.4,,Mechanical,N,Reduced Rate,34,Fan vibration high,17500.0
+EVT-0168,Concentrate Dryer,Materials Handling,2026-02-03 15:57:00.000,2026-02-03 23:15:00.000,7.3,,Utility Supply,N,Full Stop,100,Steam pressure low,15440.0
+EVT-0169,Anode Casting Wheel,Anode Refining,2026-02-04 22:19:00.000,2026-02-05 03:37:00.000,5.3,,Instrumentation & Control,N,Reduced Rate,42,Level sensor drift,16000.0
+EVT-0170,Slag Handling System,Smelting,2026-02-04 22:58:00.000,2026-02-06 05:10:00.000,30.2,30.2,Planned Maintenance,Y,No Impact,0,Refractory inspection,24130.0
+EVT-0171,Concentrate Dryer,Materials Handling,2026-02-05 23:12:00.000,2026-02-06 13:06:00.000,13.9,,Mechanical,N,Full Stop,100,Fan vibration high,14450.0
+EVT-0172,Oxygen Plant,Utilities,2026-02-07 03:42:00.000,2026-02-07 12:18:00.000,8.6,,Mechanical,N,Full Stop,100,Fan vibration high,23790.0
+EVT-0173,Flash Smelting Furnace,Smelting,2026-02-10 09:10:00.000,2026-02-10 13:28:00.000,4.3,4.3,Planned Maintenance,Y,No Impact,0,Refractory inspection,3430.0
+EVT-0174,Flash Smelting Furnace,Smelting,2026-02-15 10:28:00.000,2026-02-15 12:52:00.000,2.4,,Electrical,N,Reduced Rate,30,Transformer trip,800.0
+EVT-0175,Waste Heat Boiler,Smelting,2026-02-19 01:18:00.000,2026-02-19 08:18:00.000,7.0,,Electrical,N,Full Stop,100,VFD fault,17190.0
+EVT-0176,Cooling Water System,Utilities,2026-02-20 17:54:00.000,2026-02-20 22:30:00.000,4.6,,Mechanical,N,Full Stop,100,Conveyor belt misalignment,7290.0
+EVT-0177,Anode Casting Wheel,Anode Refining,2026-03-07 06:29:00.000,2026-03-07 10:47:00.000,4.3,,Process Upset,N,No Impact,0,High SO2 in stack,9350.0
+EVT-0178,Flash Smelting Furnace,Smelting,2026-03-11 02:00:00.000,2026-03-15 02:00:00.000,96.0,,Mechanical,N,Full Stop,100,Tap-hole failure and matte breakout,410000.0
+EVT-0179,Concentrate Dryer,Materials Handling,2026-03-12 23:52:00.000,2026-03-13 14:40:00.000,14.8,,Process Upset,N,Reduced Rate,45,Bath temperature excursion,30190.0
+EVT-0180,Flash Smelting Furnace,Smelting,2026-03-16 18:48:00.000,2026-03-17 00:24:00.000,5.6,5.6,Planned Maintenance,Y,No Impact,0,Calibration campaign,4520.0
+EVT-0181,Flash Smelting Furnace,Smelting,2026-03-27 14:55:00.000,2026-03-27 21:07:00.000,6.2,6.2,Planned Maintenance,Y,Reduced Rate,58,Calibration campaign,4960.0
+EVT-0182,Rectifier / Power Supply,Electrorefinery,2026-03-30 15:45:00.000,2026-03-30 23:33:00.000,7.8,7.8,Planned Maintenance,Y,Reduced Rate,20,Catalyst screening,6210.0
+EVT-0183,Slag Handling System,Smelting,2026-03-31 02:35:00.000,2026-03-31 03:29:00.000,0.9,,Mechanical,N,No Impact,0,Gearbox overheating,3730.0
+EVT-0184,Flash Converting Furnace,Smelting,2026-04-01 09:40:00.000,2026-04-01 12:10:00.000,2.5,,Mechanical,N,Full Stop,100,Tap-hole wear,7610.0
+EVT-0185,Anode Furnace,Anode Refining,2026-04-01 21:52:00.000,2026-04-02 14:16:00.000,16.4,,Utility Supply,N,No Impact,0,Low instrument air pressure,20230.0
+EVT-0186,Flash Converting Furnace,Smelting,2026-04-11 19:12:00.000,2026-04-11 21:18:00.000,2.1,2.1,Planned Maintenance,Y,Full Stop,100,Refractory inspection,1650.0
+EVT-0187,Flash Converting Furnace,Smelting,2026-04-15 05:56:00.000,2026-04-15 06:44:00.000,0.8,,Electrical,N,Full Stop,100,Motor winding fault,3780.0
+EVT-0188,Flash Smelting Furnace,Smelting,2026-04-15 10:07:00.000,2026-04-16 03:19:00.000,17.2,,Process Upset,N,Full Stop,100,Bath temperature excursion,7150.0
+EVT-0189,Waste Heat Boiler,Smelting,2026-04-16 17:18:00.000,2026-04-17 02:54:00.000,9.6,9.6,Planned Maintenance,Y,Full Stop,100,Scheduled inspection,7670.0
+EVT-0190,Flash Smelting Furnace,Smelting,2026-04-20 08:06:00.000,2026-04-22 08:18:00.000,48.2,,Instrumentation & Control,N,No Impact,0,DCS communication loss,19500.0
+EVT-0191,Anode Furnace,Anode Refining,2026-04-23 04:24:00.000,2026-04-23 07:54:00.000,3.5,,Electrical,N,No Impact,0,VFD fault,17280.0
+EVT-0192,Anode Casting Wheel,Anode Refining,2026-04-30 07:45:00.000,2026-04-30 13:57:00.000,6.2,,Mechanical,N,Reduced Rate,53,Bearing failure,14170.0
+EVT-0193,Concentrate Conveying,Materials Handling,2026-04-30 08:12:00.000,2026-04-30 10:18:00.000,2.1,,Process Upset,N,Full Stop,100,Bath temperature excursion,10400.0
+EVT-0194,Flash Smelting Furnace,Smelting,2026-05-01 07:52:00.000,2026-05-01 20:46:00.000,12.9,,Mechanical,N,No Impact,0,Bearing failure,42110.0
+EVT-0195,Flash Smelting Furnace,Smelting,2026-05-06 19:46:00.000,2026-05-06 20:34:00.000,0.8,,Electrical,N,Reduced Rate,29,Motor winding fault,740.0
+EVT-0196,Concentrate Conveying,Materials Handling,2026-05-07 10:38:00.000,2026-05-07 11:08:00.000,0.5,,Instrumentation & Control,N,Reduced Rate,57,Thermocouple failure,130.0
+EVT-0197,Anode Furnace,Anode Refining,2026-05-08 03:30:00.000,2026-05-08 04:30:00.000,1.0,,Process Upset,N,Reduced Rate,44,Feed rate oscillation,2000.0
+EVT-0198,Waste Heat Boiler,Smelting,2026-05-09 07:06:00.000,2026-05-09 09:36:00.000,2.5,,Unclassified,N,Reduced Rate,48,Gearbox overheating,4830.0
+EVT-0199,Rectifier / Power Supply,Electrorefinery,2026-05-09 16:06:00.000,2026-05-09 18:24:00.000,2.3,,Utility Supply,N,No Impact,0,Low instrument air pressure,2970.0
+EVT-0200,Anode Furnace,Anode Refining,2026-05-12 19:18:00.000,2026-05-12 22:00:00.000,2.7,2.7,Planned Maintenance,Y,No Impact,0,Preventive lubrication and alignment,2130.0
+EVT-0201,Anode Furnace,Anode Refining,2026-05-14 19:31:00.000,2026-05-15 07:37:00.000,12.1,,Utility Supply,N,No Impact,0,Oxygen supply shortfall,22810.0
+EVT-0202,Slag Handling System,Smelting,2026-05-15 17:54:00.000,2026-05-16 00:54:00.000,7.0,,Mechanical,N,Reduced Rate,26,Conveyor belt misalignment,11550.0
+EVT-0203,Oxygen Plant,Utilities,2026-05-18 15:12:00.000,2026-05-18 18:12:00.000,3.0,,Mechanical,N,Reduced Rate,58,Fan vibration high,38370.0
+EVT-0204,Flash Smelting Furnace,Smelting,2026-05-21 01:49:00.000,2026-05-21 03:01:00.000,1.2,1.2,Planned Maintenance,Y,No Impact,0,Calibration campaign,1000.0
+EVT-0205,Acid Plant,Acid Plant,2026-05-21 11:27:00.000,2026-05-21 18:27:00.000,7.0,,Mechanical,N,No Impact,0,Conveyor belt misalignment,14380.0
+EVT-0206,Flash Converting Furnace,Smelting,2026-05-21 19:59:00.000,2026-05-21 22:11:00.000,2.2,,Instrumentation & Control,N,Reduced Rate,49,Thermocouple failure,3060.0
+EVT-0207,Flash Converting Furnace,Smelting,2026-05-22 23:42:00.000,2026-05-23 06:36:00.000,6.9,,Mechanical,N,No Impact,0,Fan vibration high,53610.0
+EVT-0208,Concentrate Conveying,Materials Handling,2026-05-27 18:06:00.000,2026-05-28 16:00:00.000,21.9,,Utility Supply,N,Reduced Rate,37,Steam pressure low,23210.0
+EVT-0209,Flash Smelting Furnace,Smelting,2026-05-28 16:20:00.000,2026-05-28 21:02:00.000,4.7,,Electrical,N,Reduced Rate,31,Cable fault,6870.0
+EVT-0210,Anode Casting Wheel,Anode Refining,2026-05-30 05:27:00.000,2026-05-30 08:09:00.000,2.7,,Utility Supply,N,No Impact,0,Low cooling water flow,9640.0
+EVT-0211,Concentrate Dryer,Materials Handling,2026-05-31 06:23:00.000,2026-05-31 08:35:00.000,2.2,,Instrumentation & Control,N,Full Stop,100,Thermocouple failure,5010.0
+EVT-0212,Anode Casting Wheel,Anode Refining,2026-06-02 03:24:00.000,2026-06-02 05:54:00.000,2.5,,Mechanical,N,No Impact,0,Conveyor belt misalignment,3660.0
+EVT-0213,Waste Heat Boiler,Smelting,2026-06-06 12:07:00.000,2026-06-06 13:25:00.000,1.3,,Mechanical,N,Reduced Rate,25,Tap-hole wear,3410.0
+EVT-0214,Acid Plant,Acid Plant,2026-06-08 00:00:00.000,2026-06-13 00:00:00.000,120.0,,Process Upset,N,Reduced Rate,40,Catalyst bed pressure drop - SO2 conversion limited,180000.0
+EVT-0215,Flash Converting Furnace,Smelting,2026-06-10 06:45:00.000,2026-06-10 07:57:00.000,1.2,,Process Upset,N,Reduced Rate,59,Uptake shaft blockage,6750.0
+EVT-0216,Acid Plant,Acid Plant,2026-06-10 14:03:00.000,2026-06-11 02:45:00.000,12.7,12.7,Planned Maintenance,Y,No Impact,0,Calibration campaign,10120.0
+EVT-0217,Waste Heat Boiler,Smelting,2026-06-13 22:51:00.000,2026-06-14 01:21:00.000,2.5,,Mechanical,N,Full Stop,100,Tap-hole wear,3420.0
+EVT-0218,Concentrate Dryer,Materials Handling,2026-06-17 06:57:00.000,2026-06-17 17:21:00.000,10.4,,Instrumentation & Control,N,Reduced Rate,41,Flow meter fault,56050.0
+EVT-0219,Slag Handling System,Smelting,2026-06-17 19:05:00.000,2026-06-18 06:23:00.000,11.3,11.3,Planned Maintenance,Y,No Impact,0,Catalyst screening,9030.0
+EVT-0220,Anode Furnace,Anode Refining,2026-06-18 12:15:00.000,2026-06-18 15:21:00.000,3.1,,Unclassified,N,Reduced Rate,38,Uptake shaft blockage,7870.0
+EVT-0221,Rectifier / Power Supply,Electrorefinery,2026-06-22 03:50:00.000,2026-06-22 06:50:00.000,3.0,,Instrumentation & Control,N,No Impact,0,Thermocouple failure,2980.0
+EVT-0222,Slag Handling System,Smelting,2026-06-24 06:41:00.000,2026-06-24 09:53:00.000,3.2,,Electrical,N,No Impact,0,Cable fault,1650.0
+EVT-0223,Anode Casting Wheel,Anode Refining,2026-06-24 08:26:00.000,2026-06-24 12:38:00.000,4.2,,Mechanical,N,No Impact,0,Conveyor belt misalignment,7890.0
+EVT-0224,Anode Casting Wheel,Anode Refining,2026-06-27 01:46:00.000,2026-06-27 04:52:00.000,3.1,,Mechanical,N,No Impact,0,Gearbox overheating,4640.0
+EVT-0225,Flash Smelting Furnace,Smelting,2026-06-28 01:11:00.000,2026-06-28 02:29:00.000,1.3,,Mechanical,N,Full Stop,100,Pump seal leakage,5290.0
+EVT-0226,Electrostatic Precipitator,Gas Cleaning,2026-06-28 13:55:00.000,2026-06-28 19:19:00.000,5.4,,Electrical,N,Reduced Rate,60,Power dip from grid,16840.0
+EVT-0227,Electrorefinery Cranes,Electrorefinery,2026-07-01 09:28:00.000,2026-07-01 11:34:00.000,2.1,2.1,Planned Maintenance,Y,Reduced Rate,36,Scheduled inspection,1670.0
+EVT-0228,Rectifier / Power Supply,Electrorefinery,2026-07-02 03:40:00.000,2026-07-02 09:40:00.000,6.0,,Electrical,N,Reduced Rate,25,Motor winding fault,4090.0
+EVT-0229,Oxygen Plant,Utilities,2026-07-05 00:12:00.000,2026-07-05 03:00:00.000,2.8,,Mechanical,N,Full Stop,100,Bearing failure,4680.0
+EVT-0230,Slag Handling System,Smelting,2026-07-06 08:04:00.000,2026-07-06 17:28:00.000,9.4,,Instrumentation & Control,N,No Impact,0,DCS communication loss,82860.0
+EVT-0231,Slag Handling System,Smelting,2026-07-10 14:38:00.000,2026-07-11 00:56:00.000,10.3,,Process Upset,N,No Impact,0,Uptake shaft blockage,23470.0
+EVT-0232,Concentrate Conveying,Materials Handling,2026-07-14 19:30:00.000,2026-07-14 22:54:00.000,3.4,,Process Upset,N,No Impact,0,Matte grade off-spec,3630.0
+EVT-0233,Anode Furnace,Anode Refining,2026-07-15 14:56:00.000,2026-07-15 21:08:00.000,6.2,,Electrical,N,Full Stop,100,Cable fault,5480.0
+EVT-0234,Oxygen Plant,Utilities,2026-07-17 05:51:00.000,2026-07-17 17:27:00.000,11.6,,Process Upset,N,Full Stop,100,Matte grade off-spec,53680.0
+EVT-0235,Acid Plant,Acid Plant,2026-07-23 17:42:00.000,2026-07-23 21:12:00.000,3.5,,Electrical,N,Reduced Rate,60,Power dip from grid,9030.0
+EVT-0236,Flash Smelting Furnace,Smelting,2026-07-27 18:14:00.000,2026-07-27 21:14:00.000,3.0,,Process Upset,N,No Impact,0,Feed rate oscillation,6210.0
+EVT-0237,Anode Furnace,Anode Refining,2026-07-29 21:06:00.000,2026-07-29 23:12:00.000,2.1,,Utility Supply,N,No Impact,0,Low cooling water flow,4080.0
+EVT-0238,Flash Converting Furnace,Smelting,2026-08-01 15:25:00.000,2026-08-01 16:37:00.000,1.2,,Instrumentation & Control,N,Full Stop,100,Level sensor drift,4100.0
+EVT-0239,Electrostatic Precipitator,Gas Cleaning,2026-08-02 16:02:00.000,2026-08-02 19:20:00.000,3.3,,Mechanical,N,No Impact,0,Conveyor belt misalignment,16040.0
+EVT-0240,Anode Furnace,Anode Refining,2026-08-02 22:36:00.000,2026-08-03 06:48:00.000,8.2,,Electrical,N,No Impact,0,Motor winding fault,8580.0
+EVT-0241,Cooling Water System,Utilities,2026-08-07 22:18:00.000,2026-08-07 23:48:00.000,1.5,,Mechanical,N,No Impact,0,Pump seal leakage,670.0
+EVT-0242,Oxygen Plant,Utilities,2026-08-11 07:42:00.000,2026-08-11 09:12:00.000,1.5,,Process Upset,N,Full Stop,100,Bath temperature excursion,2140.0
+EVT-0243,Acid Plant,Acid Plant,2026-08-16 19:00:00.000,2026-08-16 22:54:00.000,3.9,,Utility Supply,N,Reduced Rate,45,Low cooling water flow,19480.0
+EVT-0244,Oxygen Plant,Utilities,2026-08-17 14:52:00.000,2026-08-17 18:34:00.000,3.7,,Utility Supply,N,Reduced Rate,50,Low instrument air pressure,5540.0
+EVT-0245,Anode Casting Wheel,Anode Refining,2026-08-18 00:05:00.000,2026-08-18 01:29:00.000,1.4,,Mechanical,N,Full Stop,100,Fan vibration high,690.0
+EVT-0246,Concentrate Dryer,Materials Handling,2026-08-19 22:49:00.000,2026-08-20 01:43:00.000,2.9,,Instrumentation & Control,N,Reduced Rate,34,DCS communication loss,3690.0
+EVT-0247,Slag Handling System,Smelting,2026-08-20 15:42:00.000,2026-08-20 16:30:00.000,0.8,,Process Upset,N,Full Stop,100,Feed rate oscillation,990.0
+EVT-0248,Concentrate Conveying,Materials Handling,2026-08-21 05:41:00.000,2026-08-21 15:11:00.000,9.5,9.5,Planned Maintenance,Y,Reduced Rate,46,Scheduled inspection,7630.0
+EVT-0249,Acid Plant,Acid Plant,2026-08-21 21:34:00.000,2026-08-22 07:28:00.000,9.9,9.9,Planned Maintenance,Y,No Impact,0,Catalyst screening,7900.0
+EVT-0250,Oxygen Plant,Utilities,2026-08-23 02:15:00.000,2026-08-23 02:57:00.000,0.7,,Process Upset,N,Full Stop,100,Slag foaming,590.0
+EVT-0251,Flash Converting Furnace,Smelting,2026-08-24 03:14:00.000,2026-08-24 05:38:00.000,2.4,,Unclassified,N,Full Stop,100,Power dip from grid,5070.0
+EVT-0252,Flash Converting Furnace,Smelting,2026-08-24 04:12:00.000,2026-08-24 10:48:00.000,6.6,,Process Upset,N,Reduced Rate,27,Slag foaming,33100.0
+EVT-0253,Flash Smelting Furnace,Smelting,2026-08-25 00:22:00.000,2026-08-25 17:58:00.000,17.6,,Mechanical,N,Reduced Rate,35,Bearing failure,56710.0
+EVT-0254,Anode Casting Wheel,Anode Refining,2026-08-29 06:58:00.000,2026-08-29 12:04:00.000,5.1,5.1,Planned Maintenance,Y,No Impact,0,Refractory inspection,4050.0
