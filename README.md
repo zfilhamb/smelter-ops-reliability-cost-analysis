@@ -301,15 +301,15 @@ Kadar Cu feed yang menurun secara konsisten sepanjang 2026, dan pola downtime/co
 
 Dibangun di Tableau Desktop/Public sebagai tiga dashboard dengan narasi berurutan — bukan tool monitoring harian, tapi alur cerita dari temuan operasional ke rekomendasi.
 
-🔗 *(tambahkan link Tableau Public setelah dipublikasikan)*
+[🔗 *(Dashboard Smalter Operation Table Public)*](https://public.tableau.com/views/SmelterOperation/OperationPPCOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Layout:**
 - **Dashboard 1 — Operations & PPC Overview**: KPI cards (feed, availability, Cu recovery), plan vs actual feed bulanan, tren kadar Cu feed, scatter oxygen enrichment vs matte grade dengan trend line native Tableau
+![Operations & PPC Overview](assets/image.png)
 - **Dashboard 2 — Downtime & Reliability**: Pareto equipment (dual-axis, garis kumulatif + reference line 80%), scatter MTBF vs MTTR (ukuran bubble = jumlah kegagalan), BAN turnaround overrun dengan dashboard action filter ke Dashboard 3, tabel detail event
+![Downtime & Reliability](assets/image-1.png)
 - **Dashboard 3 — Cost, Budget & Business Presentation**: bar chart variance per cost center, bar chart variance % per cost element (small multiples per tahun), line chart budget vs actual dengan native forecasting (exponential smoothing, 3 bulan), BAN missing actual rows
-
-Struktur pendamping untuk tool BI lain (dibangun dengan logika data model dan measure yang setara) tersedia di `powerbi_dashboard_structure.md` (Power BI, dengan DAX) dan `statistical_summary_for_looker_studio.xlsx` (Looker Studio, karena tool ini tidak punya fungsi korelasi/forecast/radar chart bawaan).
-
+![ Cost, Budget & Business Presentation](assets/image-2.png)
 ---
 
 ## 8. Insights & Strategic Recommendations
@@ -407,12 +407,12 @@ Struktur pendamping untuk tool BI lain (dibangun dengan logika data model dan me
 
 ---
 
-*Dataset: sintetis, dibuat untuk tujuan portofolio data analyst (lihat `smelter_operations_dataset.xlsx` / `smelter_dataset_csv.zip`)*
+*Dataset: sintetis, dibuat untuk tujuan portofolio data analyst (lihat `smelter_operations_dataset.xlsx`)*
 
-*SQL: [Data Cleaning (PostgreSQL)](cleaning_postgresql.sql) · [EDA Queries (PostgreSQL)](eda_postgresql.sql)*
+*SQL: [Smalter Operation Cleaning And EDA (PostgreSQL)](sql/smelter_ops_cleaning.sql) ·*
 
-*Python: [Notebook EDA Lanjutan](eda_lanjutan_python.ipynb)*
+*Python: [Notebook EDA Lanjutan](notebook/eda_lanjutan_python.ipynb)*
 
-*Dashboard: [Struktur Tableau](tableau_dashboard_structure.md) · [Struktur Power BI](powerbi_dashboard_structure.md) · [Tabel Statistik untuk Looker Studio](statistical_summary_for_looker_studio.xlsx)*
+*Dashboard: [Tableau Public](https://public.tableau.com/views/SmelterOperation/OperationPPCOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ·*
 
-*Laporan Insight: [Insight Operasional, Downtime & Cost](insight_operasional_downtime_cost.md)*
+*Laporan Insight: [Insight Operasional, Downtime & Cost](reports/insight_operasional_downtime_cost.md)*
